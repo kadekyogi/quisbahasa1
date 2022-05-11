@@ -68,8 +68,8 @@ const questions = [
         optionA: "Sekedar",
         optionB: "Sakadar",
         optionC: "Sakedar",
-        optionD: "Semua salah",
-        correctOption: "optionB"
+        optionD: "Sekadar",
+        correctOption: "optionD"
     },
 
     {
