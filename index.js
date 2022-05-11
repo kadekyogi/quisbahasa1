@@ -126,8 +126,8 @@ const questions = [
         optionC: "diluar",
         optionD: "dirumah",
         correctOption: "optionB"
-    }
-/*
+    },
+
     {
         question: "Which US state was Donald Trump Born ?",
         optionA: "New York",
@@ -226,7 +226,7 @@ const questions = [
         optionD: "36",
         correctOption: "optionC"
     }
-*/
+
 ]
 
 
