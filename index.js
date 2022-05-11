@@ -64,68 +64,68 @@ const questions = [
     },
 
     {
-        question: "Which country is the largest in the world ?",
-        optionA: "Russia",
-        optionB: "Canada",
-        optionC: "Africa",
-        optionD: "Egypt",
+        question: "Manakah penulisan yang benar ?",
+        optionA: "Sekedar",
+        optionB: "Sakadar",
+        optionC: "Sakedar",
+        optionD: "Semua salah",
+        correctOption: "optionB"
+    },
+
+    {
+        question: "Padanan kata MC ?",
+        optionA: "Master of Ceremony",
+        optionB: "Host",
+        optionC: "Pemandu",
+        optionD: "Pewara",
+        correctOption: "optionD"
+    },
+
+    {
+        question: "Kata ganti orang yang dapat digunakan saat menyatakan pendapat pribadi disebut?",
+        optionA: "Leksikal",
+        optionB: "Pronomina",
+        optionC: "Konjungsi",
+        optionD: "Klasikal",
         correctOption: "optionA"
     },
 
     {
-        question: "Which of these numbers is an odd number ?",
-        optionA: "Ten",
-        optionB: "Twelve",
-        optionC: "Eight",
-        optionD: "Eleven",
-        correctOption: "optionD"
-    },
-
-    {
-        question: `"You Can't see me" is a popular saying by`,
-        optionA: "Eminem",
-        optionB: "Bill Gates",
-        optionC: "Chris Brown",
-        optionD: "John Cena",
-        correctOption: "optionD"
-    },
-
-    {
-        question: "Where is the world tallest building located ?",
-        optionA: "Africa",
-        optionB: "California",
-        optionC: "Dubai",
-        optionD: "Italy",
+        question: "Cerita fiksi yang relatif pendek disebut ?",
+        optionA: "Puisi",
+        optionB: "Novel",
+        optionC: "Cerita Pendek",
+        optionD: "Pantun",
         correctOption: "optionC"
     },
 
   
     {
-        question: "The longest river in the United Kingdom is ?",
-        optionA: "River Severn",
-        optionB: "River Mersey",
-        optionC: "River Trent",
-        optionD: "River Tweed",
+        question: "Kata berikut yang benar adalah ?",
+        optionA: "Mengubah",
+        optionB: "Merubah",
+        optionC: "Merobah",
+        optionD: "Mengobah",
         correctOption: "optionA"
     },
 
 
     {
-        question: "How many permanent teeth does a dog have ?",
-        optionA: "38",
-        optionB: "42",
-        optionC: "40",
-        optionD: "36",
-        correctOption: "optionB"
+        question: "Penulisan kata yang benar adalah? ?",
+        optionA: "Standarisasi, kwitansi, frekuensi",
+        optionB: "Standarrisasi, kuitansi, frekuensi",
+        optionC: "Standardisasi, kwitansi, frekwensi",
+        optionD: "Standardisasi, kuitansi, frekuensi",
+        correctOption: "optionD"
     },
 
     {
-        question: "Which national team won the football World cup in 2018 ?",
-        optionA: "England",
-        optionB: "Brazil",
-        optionC: "Germany",
-        optionD: "France",
-        correctOption: "optionD"
+        question: 'Penulisan kata "di" yang benar?',
+        optionA: "di beli",
+        optionB: "dicintai",
+        optionC: "diluar",
+        optionD: "dirumah",
+        correctOption: "optionB"
     },
 
     {
@@ -136,7 +136,7 @@ const questions = [
         optionD: "Los Angeles",
         correctOption: "optionA"
     },
-
+*/
     {
         question: "How man states does Nigeria have ?",
         optionA: "24",
@@ -226,7 +226,7 @@ const questions = [
         optionD: "36",
         correctOption: "optionC"
     }
-
+/*
 ]
 
 
