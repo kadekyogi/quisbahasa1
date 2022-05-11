@@ -126,8 +126,8 @@ const questions = [
         optionC: "diluar",
         optionD: "dirumah",
         correctOption: "optionB"
-    },
-
+    }
+/*
     {
         question: "Which US state was Donald Trump Born ?",
         optionA: "New York",
@@ -226,7 +226,7 @@ const questions = [
         optionD: "36",
         correctOption: "optionC"
     }
-
+*/
 ]
 
 
@@ -348,7 +348,7 @@ function handleEndGame() {
 
     // condition check for player remark and remark color
     if (playerScore <= 3) {
-        remark = "Nilai Kamu Kurang, Semangat Belajar!."
+        remark = "Nilai Kamu Kurang, Belajar lagi ya...."
         remarkColor = "red"
     }
     else if (playerScore >= 4 && playerScore < 7) {
