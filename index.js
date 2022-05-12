@@ -87,7 +87,7 @@ const questions = [
         optionB: "Pronomina",
         optionC: "Konjungsi",
         optionD: "Klasikal",
-        correctOption: "optionA"
+        correctOption: "optionB"
     },
 
     {
@@ -119,6 +119,7 @@ const questions = [
         correctOption: "optionD"
     },
 
+    
     {
         question: 'Penulisan kata "di" yang benar?',
         optionA: "di beli",
@@ -128,6 +129,7 @@ const questions = [
         correctOption: "optionB"
     },
 
+    
     {
         question: "Penulisan gabungan kata yang sesuai dengan PUEBI adalah ?",
         optionA: "Walikota",
@@ -145,6 +147,7 @@ const questions = [
         optionD: "Apotik",
         correctOption: "optionB "
     },
+    
 
     {
         question: 'Setelah sekian lama akhirnya Jodi mampu "mempikat" hati Bulan. kata yang diapit tanda petik seharusnya ?',
