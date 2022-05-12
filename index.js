@@ -126,44 +126,44 @@ const questions = [
         optionC: "diluar",
         optionD: "dirumah",
         correctOption: "optionB"
+    },
+
+    {
+        question: "Penulisan gabungan kata yang benar seuai PUEBI adalah ?",
+        optionA: "Walikota",
+        optionB: "Terimakasih",
+        optionC: "Orang tua",
+        optionD: "Pasca sarjana",
+        correctOption: "optionC"
+    },
+
+    {
+        question: "Pilihlah kata baku di bawah ini ?",
+        optionA: "Praktek",
+        optionB: "Risiko",
+        optionC: "Legalisir",
+        optionD: "Apotik",
+        correctOption: "optionB "
+    },
+
+    {
+        question: "Setelah sekian lama akhirnya Jodi mampu <i>mempikat<i> hati Bulan. kata bergaris miring seharusnya ?",
+        optionA: "Memikat",
+        optionB: "Pikat",
+        optionC: "Memperikat",
+        optionD: "Mengikat",
+        correctOption: "optionA"
+    },
+
+    {
+        question: "Jika tidak ada mobil,_____tidak masalah",
+        optionA: "motorpun",
+        optionB: "motor pun",
+        optionC: "pun motor",
+        optionD: "motor-pun",
+        correctOption: "optionB"
     }
 /*
-    {
-        question: "Which US state was Donald Trump Born ?",
-        optionA: "New York",
-        optionB: "California",
-        optionC: "New Jersey",
-        optionD: "Los Angeles",
-        correctOption: "optionA"
-    },
-
-    {
-        question: "How man states does Nigeria have ?",
-        optionA: "24",
-        optionB: "30",
-        optionC: "36",
-        optionD: "37",
-        correctOption: "optionC"
-    },
-
-    {
-        question: "____ is the capital of Nigeria ?",
-        optionA: "Abuja",
-        optionB: "Lagos",
-        optionC: "Calabar",
-        optionD: "Kano",
-        correctOption: "optionA"
-    },
-
-    {
-        question: "Los Angeles is also known as ?",
-        optionA: "Angels City",
-        optionB: "Shining city",
-        optionC: "City of Angels",
-        optionD: "Lost Angels",
-        correctOption: "optionC"
-    },
-
     {
         question: "What is the capital of Germany ?",
         optionA: "Georgia",
