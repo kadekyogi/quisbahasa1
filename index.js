@@ -145,7 +145,7 @@ const questions = [
         optionB: "Risiko",
         optionC: "Legalisir",
         optionD: "Apotik",
-        correctOption: "optionB "
+        correctOption: "optionB"
     },
     
 
