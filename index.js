@@ -147,7 +147,7 @@ const questions = [
     },
 
     {
-        question: "Setelah sekian lama akhirnya Jodi mampu <i>mempikat<i> hati Bulan. kata bergaris miring seharusnya ?",
+        question: 'Setelah sekian lama akhirnya Jodi mampu "mempikat" hati Bulan. kata bercetak miring seharusnya ?',
         optionA: "Memikat",
         optionB: "Pikat",
         optionC: "Memperikat",
