@@ -129,7 +129,7 @@ const questions = [
     },
 
     {
-        question: "Penulisan gabungan kata yang benar seuai PUEBI adalah ?",
+        question: "Penulisan gabungan kata yang sesuai dengan PUEBI adalah ?",
         optionA: "Walikota",
         optionB: "Terimakasih",
         optionC: "Orang tua",
