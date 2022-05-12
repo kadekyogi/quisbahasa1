@@ -147,7 +147,7 @@ const questions = [
     },
 
     {
-        question: 'Setelah sekian lama akhirnya Jodi mampu "mempikat" hati Bulan. kata bercetak miring seharusnya ?',
+        question: 'Setelah sekian lama akhirnya Jodi mampu "mempikat" hati Bulan. kata yang diapit tanda petik seharusnya ?',
         optionA: "Memikat",
         optionB: "Pikat",
         optionC: "Memperikat",
