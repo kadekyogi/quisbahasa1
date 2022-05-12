@@ -284,7 +284,7 @@ function checkForAnswer() {
     //checking if checked radio button is same as answer
     options.forEach((option) => {
         if (option.checked === true && option.value === currentQuestionAnswer) {
-            document.getElementById(correctOption).style.backgroundColor = "green"
+            document.getElementById(correctOption).style.backgroundColor = "yellow"
             playerScore++
             indexNumber++
             //set to delay question number till when next question loads
@@ -296,7 +296,7 @@ function checkForAnswer() {
         else if (option.checked && option.value !== currentQuestionAnswer) {
             const wrongLabelId = option.labels[0].id
             document.getElementById(wrongLabelId).style.backgroundColor = "red"
-            document.getElementById(correctOption).style.backgroundColor = "green"
+            document.getElementById(correctOption).style.backgroundColor = "yellow"
             wrongAttempt++
             indexNumber++
             //set to delay question number till when next question loads
@@ -348,15 +348,15 @@ function handleEndGame() {
 
     // condition check for player remark and remark color
     if (playerScore <= 3) {
-        remark = "Nilai Kamu Kurang, Belajar lagi ya...."
+        remark = "Yah.. Nilaimu Kurang, Belajar lagi ya...."
         remarkColor = "red"
     }
     else if (playerScore >= 4 && playerScore < 7) {
-        remark = "Nilai Kamu Cukup, Tingkatkan Lagi!."
+        remark = "CUKUP BAGUS, Tingkatkan Lagi!."
         remarkColor = "orange"
     }
     else if (playerScore >= 7) {
-        remark = "Nilai Kamu Bagus, Tetap Belajar!."
+        remark = "LUAR BIASA, Tetap Belajar ya!."
         remarkColor = "green"
     }
     const playerGrade = (playerScore / 10) * 100
